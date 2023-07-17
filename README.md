@@ -6,5 +6,5 @@
 
 ## Contact Me!
 
-[Email](ethanflatt@gmail.com)
+[Email](mailto:ethanflatt@gmail.com)
 [Linkedin](https://www.linkedin.com/in/ethanflatt1/)

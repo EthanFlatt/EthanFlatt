@@ -7,5 +7,5 @@
 
 ## Contact Me!
 
-[Email](mailto:ethanflatt@gmail.com)
-[Linkedin](https://www.linkedin.com/in/ethanflatt1/)
+- [Email](mailto:ethanflatt@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/ethanflatt1/)

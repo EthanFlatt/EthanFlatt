@@ -9,3 +9,4 @@
 
 - [Email](mailto:ethanflatt@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/ethanflatt1/)
+- [Portfolio](https://ethanflatt.netlify.app/)

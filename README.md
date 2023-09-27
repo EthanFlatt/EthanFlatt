@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
-<h3 align="center">I am a software engineer who employs creative, out-of-the-box thinking that allows me to achieve unique solutions. As an English teacher in Taiwan. I gained the ability to teach, speak publicly, think on my toes, find solutions, work with others, and lead with confidence. I want to bring my creative thinking and eye for detail to web development. Some of my interests include geography, culture, food, language, people, international relations, urban design, art, and philosophy.</h3>
+<h3 align="center">I am a software engineer who employs creative, out-of-the-box thinking that allows me to achieve unique solutions. As an English teacher in Taiwan, I gained the ability to teach, speak publicly, think on my toes, find solutions, work with others, and lead with confidence. I want to bring my creative thinking and eye for detail to web development. Some of my interests include geography, culture, food, language, people, international relations, urban design, art, and philosophy.</h3>
 
 ## Tools and technologies
 
